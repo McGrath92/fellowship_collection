@@ -152,17 +152,3 @@ with st.expander("View Percentile Reference Table"):
 st.markdown("---")
 st.caption("Fellow Collection Risk Assessment Tool --- Design In Progress ---")
 st.caption("Built by P.M.McGrath")
-
-
-
-"""
-How to run locally:
-Run Python file
-Go to cmd, run: cd to whatever directory the file is saved
-Then: streamlit run fellowship_app.py
-
-This will run a local version of the application
-
-Next steps: Load to a github repo and then link that to streamlit cloud to publish
-
-"""
